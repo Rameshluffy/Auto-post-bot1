@@ -11,13 +11,13 @@ import traceback
 from pyrogram.errors import FloodWait
 
 main_buttons = [[
-        InlineKeyboardButton('Ꮻ ᴜᴘᴅᴀᴛᴇs Ꮻ', url='https://t.me/SB_Botz_Update'),
-        InlineKeyboardButton('Ꮻ sᴜᴘᴘᴏʀᴛ Ꮻ', url='https://t.me/+Vegv963Nf2kzYzBl')
+        InlineKeyboardButton('Ꮻ ᴜᴘᴅᴀᴛᴇs Ꮻ', url='https://example.com'),
+        InlineKeyboardButton('Ꮻ sᴜᴘᴘᴏʀᴛ Ꮻ', url='https://t.me/example.com')
         ],[
         InlineKeyboardButton('Ꮻ ʜᴇʟᴘ Ꮻ', callback_data='help'),
         InlineKeyboardButton('Ꮻ ᴀʙᴏᴜᴛ Ꮻ', callback_data='about')
         ],[
-        InlineKeyboardButton('🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🧑‍💻', url='https://t.me/Your_Raj')
+        InlineKeyboardButton('🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🧑‍💻', user_id='25773993')
         ]]
 #===================Start Function===================#
 
