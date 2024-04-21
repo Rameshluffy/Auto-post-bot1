@@ -17,7 +17,7 @@ main_buttons = [[
         InlineKeyboardButton('Ꮻ ʜᴇʟᴘ Ꮻ', callback_data='help'),
         InlineKeyboardButton('Ꮻ ᴀʙᴏᴜᴛ Ꮻ', callback_data='about')
         ],[
-        InlineKeyboardButton('🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🧑‍💻', user_id='25773993')
+        InlineKeyboardButton('🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🧑‍💻', user_id=1832810840)
         ]]
 #===================Start Function===================#
 
